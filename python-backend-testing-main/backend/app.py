@@ -10,7 +10,7 @@ db_config = {
     'host': 'database-1.c0becms48k0b.us-east-1.rds.amazonaws.com',
     'user': 'admin',
     'password': 'Myadmin1234',
-    'database': 'mahadev'
+    'database': 'dev'
 }
 
 # Connect to MySQL
